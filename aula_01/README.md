@@ -1,8 +1,8 @@
 # Visão Geral da Arquitetura de Computadores
-- 6/6 Vídeos
-- 1/1 Texto
-- 6/6 Questões
-- 1/1 Atividade Prática
+- 6 Vídeos
+- 1 Texto
+- 6 Questões
+- 1 Atividade Prática
 
 
 ## Compreendendo o Setup da BIOS 📝

@@ -1,8 +1,8 @@
 # Principais Tipos de Computação
-- 5/5 Vídeos
-- 1/1 Texto
-- 6/6 Questões
-- 1/1 Atividade Prática
+- 5 Vídeos
+- 1 Texto
+- 6 Questões
+- 1 Atividade Prática
 
 
 ## Solucionando Problemas de Hardware e Software 📝
