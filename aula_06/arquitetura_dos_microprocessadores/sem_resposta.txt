@@ -1,0 +1,8 @@
+RESPOSTAS
+
+Primeiro Desafio: Identificar se a estrutura de CPU apresentada é ou não superescalar.
+R: A estrutura de CPU é escalar, é identificável na aplicação que o processador
+decodifica uma instrução por vez, essa instrução é subdividida se utilizando de pseudo-paralelismo.
+
+
+OBS: Esta reposta esta ERRADA e a nota desta foi 7.0
