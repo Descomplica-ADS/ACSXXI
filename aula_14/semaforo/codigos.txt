@@ -1,0 +1,64 @@
+CÓDIGO A SER CORRIGIDO:
+
+Start:
+    MOV AL, 20; VALOR BINÁRIO 00100000
+    OUT 01
+    MOV CL, 3
+
+L1:
+    DEC CL
+    JNZ L1
+
+    MOV AL, 20; VALOR BINÁRIO 00100000
+    OUT 01
+    MOV CL, 3
+
+L2:
+    DEC CL
+    JNZ L2
+
+    MOV AL, 80; VALOR BINÁRIO 10000000
+    OUT 01
+    MOV CL, 3
+
+L3:
+    DEC CL
+    JNZ L3
+
+    MOV AL, 40; VALOR BINÁRIO 01000000
+    OUT 01
+    MOV CL, 3
+
+    DEC CL
+    JNZ Start
+
+    END
+
+--------------------------------------------------------------------------------
+
+CÓDIGO CORRIGIDO:
+
+Start:
+    MOV AL, 84;
+    OUT 01;
+    MOV CL, 3
+L1:
+    DEC CL
+    JNZ L1
+
+    MOV AL, 88;
+    OUT 01;
+
+    MOV AL, 30;
+    OUT 01;
+    MOV CL, 3
+L2:
+    DEC CL
+    JNZ L2
+
+    MOV AL, 50;
+    OUT 01;
+
+    JMP Start
+
+    END
