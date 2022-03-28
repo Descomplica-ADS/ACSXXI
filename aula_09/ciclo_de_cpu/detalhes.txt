@@ -1,0 +1,6 @@
+Descrição do pdf:
+
+- Descrito do 1° ao 13° ciclo
+- Registrado os valores de cada item
+- Descrição de soma e subtração no Arithmetic unit
+- Conceitos de Branch (if zero) e Branch to memory
