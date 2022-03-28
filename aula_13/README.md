@@ -20,11 +20,11 @@ Para realizar essa atividade você utilizará o ambiente web chamado MyCompiler,
 Acesse o seguinte endereço web: https://www.mycompiler.io/new/asm-x86_64.
 
 **2º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar.**<br>
-Observação: o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
+**Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**3º. Passo) Abra a ferramenta: Assembly-OnLine**
+**3º. Passo) Abra a ferramenta:** Assembly-OnLine
 
 <p align="center"><img src="./images/assembly_online_atalho.png"></p>
 

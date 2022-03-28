@@ -6,8 +6,7 @@
 
 ## Principais Criando um circuito parcial de uma memória RAM 📝
 **Objetivos:** compreender como funcionam o armazenamento e transferência de dados em memórias do tipo DRAM.<br>
-**Materiais, Métodos e Ferramentas:**<br>
-Para realizar essa prática o aluno precisará somente de um computador com acesso a internet e da ferramenta LogiSim
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso a internet e da ferramenta LogiSim
 
 **Leia atentamente o texto a seguir.**
 
@@ -18,13 +17,12 @@ Nessa atividade, você terá a oportunidade de observar a forma como a memória 
 Para realizar essa atividade você utilizará a aplicação **LogiSim**. Esta aplicação está instalada no computador remoto (virtual) da Descomplica.<br>
 Para realizar a atividade, veja as instruções a seguir.
 
-**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**
-
+**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**<br>
 **Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra o atalho da ferramenta LogiSim** do computador remoto da Descomplica.
+**2º. Passo) Abra a ferramenta:** LogiSim do computador remoto da Descomplica.
 
 <p align="center"><img src="./images/logisim_atalho.png"></p>
 

@@ -6,8 +6,7 @@
 
 ## Arquitetura dos Microprocessadores 📝
 **Objetivos:** Entender a arquitetura dos microprocessadores, a semântica de execução das instruções, bem como o papel de cada componente.<br>
-**Materiais, Métodos e Ferramentas:**<br>
-Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e acesso a ferramenta **DrMIPS**
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e acesso a ferramenta **DrMIPS**
 
 **Leia atentamente o texto a seguir.**
 
@@ -20,7 +19,7 @@ O propósito dessa atividade é justamente reforçar seu conhecimento quanto à 
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra o atalho da ferramenta** DrMIPS do computador remoto da Descomplica.
+**2º. Passo) Abra a ferramenta:** DrMIPS do computador remoto da Descomplica.
 
 <p align="center"><img src="./images/drmips_atalho.png"></p>
 
@@ -49,7 +48,7 @@ Essa imagem representa o circuito de um processador pipeline estendido. Caso sej
 <p align="center"><img src="./images/etapas_da_execucao_de_instrucoes_3.png"></p>
 <p align="center"><img src="./images/etapas_da_execucao_de_instrucoes_4.png"></p>
 
-**4º. Passo) Realizando a atividade.** Agora que o código foi carregado e também a CPU, podemos realizar a atividade.<br>
+**4º. Passo) Realizando a atividade:** Agora que o código foi carregado e também a CPU, podemos realizar a atividade.<br>
 Observe o botão em destaque na imagem a seguir, observe também as linhas em azul.
 
 <p align="center"><img src="./images/botao_passo_a_passo.png"></p>

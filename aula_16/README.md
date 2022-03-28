@@ -21,7 +21,7 @@ Caso deseje acessar o Tinkercard de um computador próprio, acesse o endereço w
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: Tinkercard**
+**2º. Passo) Abra a ferramenta:** Tinkercard
 
 <p align="center"><img src="./images/tinkercard_atalho.png"></p>
 

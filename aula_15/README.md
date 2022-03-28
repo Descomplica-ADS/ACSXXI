@@ -15,12 +15,12 @@ Esses dispositivos, conhecidos como microcontroladores, são dispositivos comput
 Os microcontroladores permitem inclusive, através do uso de sensores e atuadores, o desenvolvimento de aplicações que mantêm relação com o ambiente externo, e com esses recursos é possível até mesmo desenvolver equipamentos de controle residencial entre outros. Para realizar a atividade, você deverá ter acesso a ferramenta web Tinkercard, o acesso pode ser feito pelo ambiente remoto da Descomplica ou de qualquer outro computador, tablet ou smartphone com acesso a internet<br>
 Caso deseje acessar o Tinkercard de um computador próprio, acesse o endereço web https://www.tinkercad.com/ e siga diretamente para o 3º passo
 
-**1º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar.**
+**1º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar.**<br>
 **Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: Tinkercard**
+**2º. Passo) Abra a ferramenta:** Tinkercard
 
 <p align="center"><img src="./images/tinkercard_atalho.png"></p>
 

@@ -4,9 +4,10 @@
 ▾ root:
     ▾ aula_xx
         ▸ images
-        ▾ projeto_xx
+        ▾ projeto_00
             assembler.asm
             atividade.pdf
             circuito.brd
-        Readme.md
+            gif_blabla.gif
+        README.md
 ```

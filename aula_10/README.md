@@ -15,7 +15,7 @@ Sempre que solicitamos a abertura de um programa ou realizamos qualquer outra op
 Ao conjunto de tarefas que a CPU precisa realizar para executar uma instrução, dá-se o nome de ciclo de cpu, ciclo de instrução ou clock. E o propósito dessa atividade é justamente ajudá-lo a entender um pouco melhor tudo o que ocorre na execução de cada instrução de um programa.<br>
 Para realizar essa atividade você utilizará uma ferramenta chamada johnny. A ferramenta está no computador cuja Descomplica disponibiliza o acesso através da Conexão Remota. Para realizar a atividade, siga as instruções a seguir
 
-**1º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar**
+**1º. Passo)** Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
@@ -29,7 +29,7 @@ Ao abrir o aplicativo, imediatamente será apresentada uma tela semelhante a que
 
 <p align="center"><img src="./images/tela_aberta.png"></p>
 
-**3º. Passo) Resolvendo o desafio:** primeiro, clique no gato, depois clique na caixinha que está logo à direita das engrenagens. Por fim, clique na pastinha aberta e encontre o arquivo **multiplikation.ram**, ele estará na mesma pasta em que se encontra o programa
+**3º. Passo) Resolvendo o desafio:** Primeiro, clique no gato, depois clique na caixinha que está logo à direita das engrenagens. Por fim, clique na pastinha aberta e encontre o arquivo **multiplikation.ram**, ele estará na mesma pasta em que se encontra o programa
 
 Agora uma tela semelhante a que é apresentada abaixo deve aparecer
 
