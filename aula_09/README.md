@@ -6,8 +6,7 @@
 
 ## Principais Representando os Procedimentos em um Ciclo de CPU 📝
 **Objetivos:** Principais Representando os Procedimentos em um Ciclo de CPU<br>
-**Materiais, Métodos e Ferramentas:**<br>
-Para realizar essa prática o aluno precisará somente de um computador com acesso a internet e a ferramenta online Litte Man computer - https://peterhigginson.co.uk/lmc/
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso a internet e a ferramenta online Litte Man computer - https://peterhigginson.co.uk/lmc/
 
 **Leia atentamente o texto a seguir.**
 
@@ -19,11 +18,11 @@ Caso opte por não utilizar a Área de Trabalho Remota Descomplica, basta abrir 
 Caso opte por usar a Área de Trabalho Remota Descomplica, siga os passos a seguir:
 
 **1º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar**<br>
-Observação: o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
+**Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: Little Man Computing**
+**2º. Passo) Abra a ferramenta:** Little Man Computing
 
 <p align="center"><img src="./images/little_man_computing_atalho.png"></p>
 

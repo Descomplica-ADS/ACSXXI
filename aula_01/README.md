@@ -4,12 +4,9 @@
 - 6 Questões
 - 1 Atividade Prática
 
-
 ## Compreendendo o Setup da BIOS 📝
-
-Objetivos: Compreender melhor o funcionamento da BIOS e seu papel na arquitetura computacional.
-Materiais, Métodos e Ferramentas:
-Para realizar essa prática o aluno precisará somente de um computador com acesso à internet
+**Objetivos:** Compreender melhor o funcionamento da BIOS e seu papel na arquitetura computacional.<br>
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso à internet
 
 **Leia atentamente o texto a seguir.**
 
@@ -21,12 +18,12 @@ Um atalho do endereço também estará disponível no computador remoto da Desco
 
 **Caso deseje acessar o simulador através do computador remoto da Descomplica, veja os passos a seguir.**
 
-**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**
+**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**<br>
 **Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra o atalho do Simulador** - BIOS do computador remoto da Descomplica.
+**2º. Passo) Abra a ferramenta:** BIOS do computador remoto da Descomplica.
 
 <p align="center"><img src="./images/simulador-bios.png"></p>
 

@@ -15,11 +15,11 @@ Este recurso pode funcionar independentemente da existência ou não de um módu
 Para realizar essa atividade você utilizará a aplicação SOSIM.exe. Esta aplicação está instalada no computador virtual da Descomplica. Para realizar a atividade, siga as instruções a seguir
 
 **1º. Passo) Acesse a Área de Trabalho Remota Descomplica, para isso clique em conectar.**<br>
-Observação: o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
+**Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: SOSIM.exe**
+**2º. Passo) Abra a ferramenta:** SOSIM.exe
 
 <p align="center"><img src="./images/sosim_atalho.png"></p>
 

@@ -5,16 +5,15 @@
 - 1 Atividade Prática
 
 ## Criação de Circuitos Lógicos com Base no Sistemas Binário 📝
-Objetivos: Compreender a importância dos sistemas numéricos, sobretudo binários, na construção dos circuitos lógicos da arquitetura de um computador.
-Materiais, Métodos e Ferramentas:
-Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e a ferramenta LogiSim.
+**Objetivos:** Compreender a importância dos sistemas numéricos, sobretudo binários, na construção dos circuitos lógicos da arquitetura de um computador.<br>
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e a ferramenta LogiSim.
 
 **Leia atentamente o texto a seguir.**
 
 Como sabemos a computação tem grande influência da matemática e eletrônica, principalmente no que diz respeito a circuitos digitais. A proximidade da informática com a eletrônica é tão grande que os mesmos conceitos relacionados a circuitos e lógica booleana são compartilhados por essas duas áreas.<br>
 O princípio básico da computação é a presença ou ausência de carga elétrica em um determinado canal, 1 ou 0, presente ou ausente, verdadeiro ou falso. Essa característica dos circuitos está muito próxima do sistema binário, e esse é um dos motivos desse sistema ser tão amplamente utilizado na computação.<br>
 Outra questão relacionada ao sistema binário, são suas compatibilidades com os sistemas octais e hexadecimais. Assim, mesmo que primitivamente não seja possível representar um dado com algo além de 1 e 0, em nível computacional, essas instruções podem ser reduzidas, basta somente convertê-las para o sistema octal ou hexadecimal.<br>
-Compreender essa relação é fundamental para se tornar um bom profissional de tecnologia da informação, afinal, esta é uma área de grande abrangência.<br>
+Compreender essa relação é fundamental para se tornar um bom profissional de tecnologia da informação, afinal, esta é uma área de grande abrangência.
 
 Para realizar esta atividade, vamos utilizar o aplicativo de simulação de circuitos lógicos **Logsim**.<br>
 Se possível, instale o simulador em seu computador. Disponível em: https://sourceforge.net/projects/circuit/.
@@ -23,13 +22,12 @@ Este aplicativo também está no computador remoto da Descomplica, que disponibi
 
 Veja as instruções a seguir para acessar o aplicativo e realizar a atividade.
 
-**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**
-
+**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**<br>
 **Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra o atalho** da ferramenta LogiSim:
+**2º. Passo) Abra a ferramenta:** LogiSim
 
 <p align="center"><img src="./images/logisim_atalho.png"></p>
 
@@ -41,7 +39,7 @@ Ao abrir o aplicativo, imediatamente é apresentada a tela a seguir. Essa é a �
 
 <p align="center"><img src="./images/tela_de_analise_combinacional.png"></p>
 
-**4º. Passo) Realizando a atividade.** Ao abrir a janela de **Análise Combinacional, você** define quais são as variáveis de **entrada, saída** e **os valores esperados na saída** (através da tabela). Pode ver qual a **expressão** que corresponde ao circuito e também pode definir o **objetivo do circuito** na aba **minimizar.**
+**4º. Passo) Realizando a atividade:** Ao abrir a janela de **Análise Combinacional, você** define quais são as variáveis de **entrada, saída** e **os valores esperados na saída** (através da tabela). Pode ver qual a **expressão** que corresponde ao circuito e também pode definir o **objetivo do circuito** na aba **minimizar.**
 
 <p align="center"><img src="./images/definindo_variaveis.png"></p>
 

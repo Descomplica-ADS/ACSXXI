@@ -6,8 +6,7 @@
 
 ## Ciclo de Instruções - Monociclo e Pipeline 📝
 **Objetivos:** Compreender a diferença de uma arquitetura em pipeline e monociclo<br>
-**Materiais, Métodos e Ferramentas:**<br>
-Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e acesso a ferramenta **DrMIPS**
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso à internet e acesso a ferramenta **DrMIPS**
 
 **Leia atentamente o texto a seguir.**
 
@@ -16,13 +15,12 @@ Com o passar dos anos novas arquiteturas foram surgindo, e novas possibilidades 
 Assim os processadores não ficavam mais dedicados a um único programa, era possível executar parte da instrução de um programa e intercalar com a execução de parte das instruções de outro programa. Este modelo de processamento ficou conhecido como pipeline.<br>
 Nesta atividade o propósito é que você compreenda a diferença entre as arquiteturas de arquiteturas monociclo e pipeline, e para auxiliar neste processo, iremos utilizar a ferramenta DrMIPS. A ferramenta está no computador remoto da Descomplica que disponibiliza o acesso através da Conexão Remota. Para realizar a atividade, veja as instruções a seguir.
 
-**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**
-
+**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**<br>
 **Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra o atalho da ferramenta** DrMIPS do computador remoto da Descomplica.
+**2º. Passo) Abra a ferramenta:** DrMIPS do computador remoto da Descomplica.
 
 <p align="center"><img src="./images/drmips_atalho.png"></p>
 
@@ -50,7 +48,7 @@ Essa imagem representa o circuito de um processador monociclo. Caso seja necess�
 <p align="center"><img src="./images/etapas_da_execucao_de_instrucoes_3.png"></p>
 <p align="center"><img src="./images/etapas_da_execucao_de_instrucoes_4.png"></p>
 
-**4º. Passo) Realizando a atividade.** Agora que o código foi carregado e também a CPU, podemos realizar a atividade.<br>
+**4º. Passo) Realizando a atividade:** Agora que o código foi carregado e também a CPU, podemos realizar a atividade.<br>
 Observe o botão em destaque na imagem a seguir, observe também as linhas em azul.
 
 <p align="center"><img src="./images/botao_passo_a_passo.png"></p>

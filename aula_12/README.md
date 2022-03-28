@@ -19,7 +19,7 @@ Para realizar essa atividade você utilizará a aplicação CPUID CPU-Z. Esta ap
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: CPUID CPU-Z**
+**2º. Passo) Abra a ferramenta:** CPUID CPU-Z
 
 <p align="center"><img src="./images/cpuid_atalho.png"></p>
 

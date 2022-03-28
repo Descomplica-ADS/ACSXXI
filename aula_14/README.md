@@ -20,7 +20,7 @@ Nessa atividade será verificado seu entendimento em relação a linguagem de pr
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
-**2º. Passo) Abra a ferramenta: Sms32v50**
+**2º. Passo) Abra a ferramenta:** Sms32v50
 
 <p align="center"><img src="./images/sms32v50_atalho.png"></p>
 
@@ -30,7 +30,7 @@ Ao abrir o aplicativo, imediatamente será apresentada uma tela semelhante a que
 
 Nessa tela, a seta de **número 1** permite iniciar um novo programa, a seta de **número 2** compila o programa, a seta de **número 3** permite executar instrução por instrução, a seta de **número 4** executa o programa sem interrupções, e a seta **número 5** para a execução.
 
-**4º. Passo) Resolvendo a atividade:** No exemplo apresentado em vídeo, temos um código que insere ações em um de dois semáforos. Nesta atividade você deverá inserir ações do segundo semáforo. Entretanto, enquanto o primeiro estiver verde, o segundo deverá estar vermelho.<br>
+**3º. Passo) Resolvendo a atividade:** No exemplo apresentado em vídeo, temos um código que insere ações em um de dois semáforos. Nesta atividade você deverá inserir ações do segundo semáforo. Entretanto, enquanto o primeiro estiver verde, o segundo deverá estar vermelho.<br>
 Utilize o código abaixo (o mesmo do exemplo) para realizar a atividade
 
 ```asm
@@ -38,7 +38,6 @@ Start:
     MOV AL, 20; VALOR BINÁRIO 00100000
     OUT 01
     MOV CL, 3
-
 L1:
     DEC CL
     JNZ L1
@@ -46,7 +45,6 @@ L1:
     MOV AL, 20; VALOR BINÁRIO 00100000
     OUT 01
     MOV CL, 3
-
 L2:
     DEC CL
     JNZ L2
@@ -54,7 +52,6 @@ L2:
     MOV AL, 80; VALOR BINÁRIO 10000000
     OUT 01
     MOV CL, 3
-
 L3:
     DEC CL
     JNZ L3

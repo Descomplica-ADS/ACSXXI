@@ -4,12 +4,9 @@
 - 6 Questões
 - 1 Atividade Prática
 
-
 ## Solucionando Problemas de Hardware e Software 📝
-
-Objetivos: Compreender melhor o funcionamento de cada um dos componentes do computador, entendendo inclusive a relação entre o hardware e o software.
-Materiais, Métodos e Ferramentas:
-Para realizar essa prática o aluno precisará somente de um computador com acesso à internet.
+**Objetivos:** Compreender melhor o funcionamento de cada um dos componentes do computador, entendendo inclusive a relação entre o hardware e o software.<br>
+**Materiais, Métodos e Ferramentas:** Para realizar essa prática o aluno precisará somente de um computador com acesso à internet.
 
 **Leia atentamente o texto a seguir.**
 
@@ -22,8 +19,8 @@ https://www.baixesoft.com/download/simulador-de-defeitos-intel
 Esse aplicativo está no computador remoto que a Descomplica disponibiliza o acesso através da Conexão Remota.
 Veja as instruções a seguir para acessar o aplicativo e realizar a atividade.
 
-**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**
-Observação: o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
+**1º. Passo) Acesse em seu computador (local) a Conexão de Área de Trabalho Remota com o endereço IP do computador remoto da Descomplica e clique em conectar.**<br>
+**Observação:** o endereço IP do computador remoto pode passar por atualização. Certifique-se com o professor tutor.
 
 <p align="center"><img src="./images/conexao_de_area_de_trabalho_remota.png"></p>
 
@@ -44,4 +41,4 @@ Quando a resposta está correta, sua pontuação aumenta, e um feedback positivo
 
 <p align="center"><img src="./images/tela_de_feedback.png"></p>
 
-**4º. Passo) Realizando a atividade.** A atividade é simples. O que se pede é que sejam respondidas **10 perguntas**. Escreva cada uma das perguntas em um arquivo de texto. Após a pergunta, comente sobre a dificuldade daquela pergunta para você
+**4º. Passo) Realizando a atividade:** A atividade é simples. O que se pede é que sejam respondidas **10 perguntas**. Escreva cada uma das perguntas em um arquivo de texto. Após a pergunta, comente sobre a dificuldade daquela pergunta para você
